@@ -1,1 +1,1 @@
-backend developer | building systems, optimizing code 
+full-stack developer
